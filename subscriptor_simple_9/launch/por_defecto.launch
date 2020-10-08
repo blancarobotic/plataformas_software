@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="subscriptor_simple_9" type="ejercicio9.py" name="subscriptor_9" output="screen">
+    </node>
+</launch>

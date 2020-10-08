@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="publicador_4" type="publicador_py.py" name="publicador_customizado" output="screen">
+	</node>
+</launch>

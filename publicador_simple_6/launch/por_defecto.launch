@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="publicador_simple_6" type="ejercicio6.py" name="publicador_6" output="screen">
+	</node>
+</launch>

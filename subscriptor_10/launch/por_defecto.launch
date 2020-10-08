@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="subscriptor_10" type="ejercicio10.py" name="distancia_minima_laser" output="screen">
+	</node>
+</launch>

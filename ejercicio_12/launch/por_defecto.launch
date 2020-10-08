@@ -1,0 +1,4 @@
+<launch>
+        <node pkg="ejercicio_12" type="ejercicio12.py" name="info_robot" output="screen">
+        </node>
+</launch>
